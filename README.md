@@ -23,8 +23,9 @@ If you need a CGO-free SQLite driver, the following community projects are avail
 
 | Driver | Repository |
 |--------|------------|
-| glebarez/sqlite | [github.com/glebarez/sqlite](https://github.com/glebarez/sqlite) |
-| libtnb/sqlite | [github.com/libtnb/sqlite](https://github.com/libtnb/sqlite) |
+| glebarez/sqlite | [github.com/glebarez/sqlite](https://pkg.go.dev/github.com/glebarez/sqlite) |
+| libtnb/sqlite | [github.com/libtnb/sqlite](https://pkg.go.dev/github.com/libtnb/sqlite) |
+| ncruces/go-sqlite3/gormlite | [github.com/ncruces/go-sqlite3/gormlite](https://pkg.go.dev/github.com/ncruces/go-sqlite3/gormlite) |
 
 Usage is identical — simply swap the import path:
 
